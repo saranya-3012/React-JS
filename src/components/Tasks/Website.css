@@ -1,0 +1,21 @@
+nav {
+    margin: 0;
+    width: 100%;
+    background-color: rgb(252, 252, 252);
+    padding: 15px;
+    
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-shadow: 2px 3px 3px grey;
+}
+
+nav a:hover {
+    color: blue;
+}

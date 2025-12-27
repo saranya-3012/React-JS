@@ -1,0 +1,32 @@
+nav{ 
+    background-color:rgb(255, 255, 255); 
+    padding : 20px; 
+    margin : 80px; 
+} 
+
+.logo{ 
+    color: rgb(8, 8, 150); 
+    font-size:20px; 
+    font-family:cursive; 
+    padding-right:200px; 
+    padding-left:60px; 
+}
+
+b, li, button, ul{ 
+    display : inline; 
+}
+
+li, button, ul{ 
+    padding:20px; 
+}
+
+.sign{ 
+    padding-left: 240px; 
+}
+
+button { 
+    background-color : rgb(47, 17, 219); 
+    border-radius : 7px; 
+    padding : 10px 20px; 
+    border-style:none; 
+}
